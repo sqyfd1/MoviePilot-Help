@@ -1,5 +1,7 @@
 #唐诡奇谈4
 唐诡奇谭.Strange.Chronicles.of.Tang.S01 => {[tmdbid=211089;type=tv;s=4]}
+#大城小事排除
+Small.Town.Big.Story => hghgfff.Small.Town.Big.Story.
 
 
 
