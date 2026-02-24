@@ -2,6 +2,8 @@
 唐诡奇谭.Strange.Chronicles.of.Tang.S01 => {[tmdbid=211089;type=tv;s=4]}
 #大城小事排除
 Small.Town.Big.Story => hghgfff.Small.Town.Big.Story.
+#除恶
+Evil.Hunter.S01.2026 => {[tmdbid=281495;type=tv;s=1]}
 
 
 
