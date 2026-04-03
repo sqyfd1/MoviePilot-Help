@@ -5,6 +5,6 @@ Small.Town.Big.Story => hghgfff.Small.Town.Big.Story.
 #除恶
 Evil.Hunter.S01.2026.1080p.WEB-DL.H264.AAC-ADWeb => {[tmdbid=281495;type=tv;s=1]}
 #创世纪
-At.the.Threshold.of.an.Era.S01E01.1999 => {[tmdbid=1358;type=tv;s=1]}
+At.the.Threshold.of.an.Era.S01 => {[tmdbid=1358;type=tv;s=1]}
 
 
